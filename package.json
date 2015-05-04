@@ -1,6 +1,6 @@
 {
-  "name": "ksc-fe",
-  "version": "0.0.2",
+  "name": "amazing",
+  "version": "0.1.1",
   "description": "velocity解析环境",
   "main": "app.js",
   "dependencies": {
