@@ -1,6 +1,6 @@
 {
   "name": "amazing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "velocity解析环境",
   "main": "app.js",
   "dependencies": {
